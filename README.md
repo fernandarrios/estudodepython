@@ -1,2 +1,5 @@
-# estudodepython
-Anotações feitas durante o estudo de Python que irei fazendo durante minha iniciação na carreira de Data Sciente
+![](https://github.com/fernandarrios/estudodepython/blob/main/Python.png)
+
+Anotações feitas durante o estudo de Python que estou fazendo.
+
+*Em andamento.*
