@@ -3,4 +3,5 @@
 Anotações feitas durante o estudo de Python que estou fazendo.
 
 *Em andamento.*
+
 **Banner elaborado por mim.**
